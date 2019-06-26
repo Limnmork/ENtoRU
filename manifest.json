@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "ENtoRU",
+	"description": "Приложунька для автоматической смены раскладки с английской (EN) на русскую (RU)",
+	"version": "1.0.1",
+	"browser_action": {
+		"default_title": "ENtoRU",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["activeTab", "storage"]
+ }
